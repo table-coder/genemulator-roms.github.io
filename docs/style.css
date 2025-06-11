@@ -1,0 +1,25 @@
+.title{
+    font-family: 'Comic Sans MS';
+    font-size: 50px;
+    color: #2edd9a;
+}
+.cool{
+    font-family: 'Comic Sans MS';
+    color: #117a52;
+}
+body {
+    height: 1320px;
+    background-image: url('bg.png');
+    background-size: cover;       /* makes the image cover the entire background */
+    background-repeat: no-repeat; /* prevents tiling/repeating */
+    background-position: center;  /* centers the image */
+}
+.thumb {
+    border-radius: 20px;
+    width: 200px;
+    height: auto;
+}
+.img{
+    font-family: 'Comic Sans MS';
+    color: #1f99eb;
+}
